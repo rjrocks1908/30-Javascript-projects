@@ -3,3 +3,4 @@ This repository contains cool javascript project for every level and for every k
 
 # Project List
 - Day 1 - Weather App
+- Day 2 - Todo App
